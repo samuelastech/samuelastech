@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=samuelastech&show_icons=true" alt="samuelastech">
 
 <details>
-  <summary>:zap: **Languages Used**</summary>
+  <summary>:zap: <strong>Languages Used</strong></summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelastech&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 <br/>
