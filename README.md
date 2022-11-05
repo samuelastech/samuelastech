@@ -18,7 +18,7 @@
 ## Stats
 
 <div align="center">
-  <img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelastech&layout=compact&bg_color=ffffff&text_color=333333">
+  <img height="200px" width="334px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelastech&layout=compact&bg_color=ffffff&text_color=333333">
 
-  <img style="height: 195px;" src="https://github-readme-stats.vercel.app/api?username=samuelastech&show_icons=true&theme=transparent">
+  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=samuelastech&show_icons=true&theme=transparent">
 </div>
